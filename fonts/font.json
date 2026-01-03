@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "Super Mario Bros Fonts - rd64",
-  "description": "Pack de fuentes pixel art inspiradas en Super Mario Bros. Combina fuentes personalizadas con Press Start 2P y Silkscreen de Google Fonts.",
+  "description": "Pack completo de fuentes pixel art para el tema Super Mario Bros. Todas las fuentes hospedadas en el repositorio para máxima compatibilidad.",
   "source": "https://raw.githubusercontent.com/retired64/revenge64/main/fonts/font.json",
   "main": {
     "ABCGintoNord-ExtraBold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
@@ -14,14 +14,14 @@
     "ggsans-Normal": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Regular.ttf",
     "ggsans-NormalItalic": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Regular.ttf",
     "ggsans-Regular": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Regular.ttf",
-    "ggsans-Semibold": "https://github.com/google/fonts/raw/main/ofl/silkscreen/Silkscreen-Bold.ttf",
-    "ggsans-SemiboldItalic": "https://github.com/google/fonts/raw/main/ofl/silkscreen/Silkscreen-Bold.ttf",
+    "ggsans-Semibold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
     "NotoSans-Bold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
     "NotoSans-ExtraBold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
     "NotoSans-Medium": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Medium.ttf",
     "NotoSans-Normal": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Regular.ttf",
     "NotoSans-NormalItalic": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Regular.ttf",
-    "NotoSans-Semibold": "https://github.com/google/fonts/raw/main/ofl/silkscreen/Silkscreen-Bold.ttf",
-    "SourceCodePro-Semibold": "https://github.com/google/fonts/raw/main/ofl/silkscreen/Silkscreen-Bold.ttf"
+    "NotoSans-Semibold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/retired64/revenge64/raw/main/fonts/SuperMario-Bold.ttf"
   }
 }
