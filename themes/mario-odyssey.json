@@ -129,7 +129,7 @@
   },
   
   "background": {
-    "url": "https://github.com/retired64/revenge64/raw/main/backgrounds/mario-kingdom.jpg",
+    "url": "https://raw.githubusercontent.com/retired64/revenge64/main/backgrounds/mario-kingdom.jpg",
     "alpha": 0.7,
     "blur": 5
   }
