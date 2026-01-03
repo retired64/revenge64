@@ -1,0 +1,136 @@
+{
+  "name": "Super Mario Bros - rd64",
+  "description": "Theme inspirado en Super Mario Bros con colores clásicos del Reino Champiñon",
+  "authors": [
+    {
+      "name": "retired64",
+      "id": "1101245100056662147"
+    }
+  ],
+  "spec": 2,
+  
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFFFFF", "#000000"],
+    "HEADER_SECONDARY": ["#FFD700", "#666666"],
+    
+    "ANDROID_RIPPLE": ["#FF6B3550", "#FF6B3550"],
+    
+    "TEXT_NORMAL": ["#FFFFFF", "#1A1A1A"],
+    "TEXT_MUTED": ["#FFD700", "#8B8B8B"],
+    "TEXT_LINK": ["#FF6B35", "#E55100"],
+    
+    "MENTION_FOREGROUND": ["#E53935", "#E53935"],
+    
+    "INTERACTIVE_NORMAL": ["#FFD700", "#FFC107"],
+    "INTERACTIVE_HOVER": ["#FF8C42", "#FF6B35"],
+    "INTERACTIVE_ACTIVE": ["#FF6B35", "#E55100"],
+    "INTERACTIVE_MUTED": ["#8B4513", "#A0522D"],
+    
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#2C1810", "#FFFFFF"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#2C1810", "#F5F5F5"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#2C1810", "#F5F5F5"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#FFD700", "#FFC107"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFD700", "#666666"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#FFFFFF", "#1A1A1A"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#1A0E08", "#FFFFFF"],
+    
+    "SPOILER_HIDDEN_BACKGROUND": ["#4A2C2A", "#E0E0E0"],
+    
+    "BACKGROUND_PRIMARY": ["#1A0E08", "#FFF8E1"],
+    "BACKGROUND_SECONDARY": ["#2C1810", "#FFFFFF"],
+    "BACKGROUND_SECONDARY_ALT": ["#0D0704", "#F5F5F5"],
+    "BACKGROUND_TERTIARY": ["#4A2C2A", "#FFF3E0"],
+    "BACKGROUND_ACCENT": ["#FF6B35", "#FF8C42"],
+    "BG_BACKDROP": ["#1A0E0870", "#00000050"],
+    
+    "BORDER_FAINT": ["#8B4513", "#D0D0D0"],
+    "BORDER_STRONG": ["#FFD700", "#FFC107"],
+    "BORDER_SUBTLE": ["#A0522D", "#E0E0E0"],
+    
+    "BACKGROUND_FLOATING": ["#2C1810", "#FFFFFF"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1A0E08", "#FFF8E1"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0D0704", "#F5F5F5"],
+    "BACKGROUND_NESTED_FLOATING": ["#1A0E08", "#FFFFFF"],
+    
+    "CARD_PRIMARY_BG": ["#2C1810", "#FFFFFF"],
+    "CARD_SECONDARY_BG": ["#1A0E08", "#F5F5F5"],
+    
+    "BACKGROUND_MESSAGE_HOVER": ["#2C181050", "#F5F5F550"],
+    "BACKGROUND_MODIFIER_HOVER": ["#2C181030", "#F5F5F530"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#2C181050", "#F5F5F550"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#FF6B3530", "#FF8C4230"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#2C1810", "#FFFFFF"],
+    
+    "SCROLLBAR_THIN_THUMB": ["#8B4513", "#A0522D"],
+    "SCROLLBAR_THIN_TRACK": ["transparent", "transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#8B4513", "#A0522D"],
+    "SCROLLBAR_AUTO_TRACK": ["#1A0E08", "#F5F5F5"],
+    
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFD700", "#999999"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#0D0704", "#FFFFFF"],
+    
+    "CHANNELS_DEFAULT": ["#A0522D", "#666666"],
+    
+    "KEYBOARD": ["#1A0E08", "#FFFFFF"],
+    "CHANNEL_ICON": ["#FFD700", "#FFC107"]
+  },
+  
+  "rawColors": {
+    "PRIMARY_100": "#FFD700",
+    "PRIMARY_200": "#FFC107",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_360": "#FF6B35",
+    "PRIMARY_400": "#FFD700",
+    "PRIMARY_500": "#FF6B35",
+    "PRIMARY_600": "#1A0E08",
+    "PRIMARY_630": "#2C1810",
+    "PRIMARY_660": "#0D0704",
+    "PRIMARY_700": "#1A0E08",
+    "PRIMARY_800": "#0D0704",
+    "PRIMARY_DARK": "#FF6B35",
+    
+    "BRAND_260": "#FF8C42",
+    "BRAND_360": "#FF6B35",
+    "BRAND_500": "#E55100",
+    "BRAND_560": "#E55100",
+    
+    "BLUE_345": "#0066CC",
+    
+    "GREEN_100": "#4CAF50",
+    "GREEN_130": "#4CAF50",
+    "GREEN_300": "#4CAF50",
+    "GREEN_360": "#388E3C",
+    "GREEN_500": "#4CAF50",
+    "GREEN_600": "#388E3C",
+    "GREEN_700": "#2E7D32",
+    
+    "RED_260": "#E53935",
+    "RED_300": "#E53935",
+    "RED_360": "#D32F2F",
+    "RED_400": "#E53935",
+    "RED_500": "#E53935",
+    "RED_600": "#D32F2F",
+    "RED_700": "#C62828",
+    
+    "YELLOW_100": "#FFD700",
+    "YELLOW_200": "#FFD700",
+    "YELLOW_300": "#FFC107",
+    "YELLOW_360": "#FFA000",
+    "YELLOW_500": "#FFD700",
+    "YELLOW_600": "#FFC107",
+    "YELLOW_700": "#FFA000",
+    
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#F5F5F5",
+    
+    "GUILD_BOOSTING_PINK": "#FF6B35",
+    "GUILD_BOOSTING_PURPLE": "#E55100",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#FF8C42"
+  },
+  
+  "background": {
+    "url": "https://github.com/retired64/revenge64/raw/main/backgrounds/mario-kingdom.jpg",
+    "alpha": 0.7,
+    "blur": 5
+  }
+}
